@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JamChristmas",
+			"Path": "C:\\Users\\Luca\\OneDrive - De Vinci\\Année 2\\UnrealJam\\SourceTree\\JamChristmas\\Source\\JamChristmas.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JamChristmasEditor",
+			"Path": "C:\\Users\\Luca\\OneDrive - De Vinci\\Année 2\\UnrealJam\\SourceTree\\JamChristmas\\Source\\JamChristmasEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
